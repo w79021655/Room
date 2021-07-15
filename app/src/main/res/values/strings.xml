@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Room</string>
+    <string name="empty">No data message!</string>
+    <string name="id">Id:</string>
+    <string name="name">Name:</string>
+    <string name="age">Age:</string>
+</resources>
